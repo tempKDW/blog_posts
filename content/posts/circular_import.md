@@ -1,18 +1,8 @@
 ---
 title: "Circular import에 대한 생각"
-date: 2021-02-17T20:40:20+09:00
-tags: ["python", "coding"]
-author: "Dongwook Kim"
-showToc: false
-TocOpen: false
-draft: false
-hidemeta: false
-comments: false
 description: "Circular import 문제를 해결하기 위한 방법."
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-searchHidden: true
+date: 2021-02-21T13:34:20+09:00
+tags: ["python", "coding"]
 
 ---
 

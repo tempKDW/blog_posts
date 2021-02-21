@@ -1,19 +1,19 @@
 ---
 title: "Early return에 대한 생각"
+description: "분기와 early-return은 다르게 쓰여야 한다."
 date: 2021-02-17T20:40:20+09:00
 tags: ["python", "coding"]
 author: "Dongwook Kim"
+
 showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "분기와 early-return은 다르게 쓰여야 한다."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 searchHidden: true
-
 ---
 
 early return 이란 특정 상황에서 function 내 주요 로직이 실행되기 이전에 return을 함으로써 실행 cost를 줄이고 가독성을 높이는 방법이다.
